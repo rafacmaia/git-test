@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -11,6 +13,13 @@ public class Main {
 
         age = 11;
         System.out.println(age);
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Enter the Queen's name: ");
+        scanner.nextLine();
+
+        scanner.close();
     }
 
 }
