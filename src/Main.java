@@ -32,5 +32,5 @@ public class Main {
 
         scanner.close();
     }
-// 36:20
+// 37:35
 }
