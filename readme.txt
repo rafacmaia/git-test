@@ -1,10 +1,10 @@
 Test for git tutorial.
 
-Testing more yesss!
+This is line is a bigger and better test!
 
-I wrote this line for version 3 of this file.
+This line came about in the development of version 3 of this file.
 
-This line then came in only in version 4.
+This line then crept in during version 4.
 
-
-blin blin bloopy
+I will now retire this file. There shall be no more updates in here.
+Goodbye.
