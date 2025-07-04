@@ -8,9 +8,9 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        String adjective1, adjective2, adjective3;
-        String noun1, noun2, noun3;
-        String verb1, verb2, verb3;
+        String adjective1, adjective2, adjective3,
+                noun1, noun2, noun3,
+                verb1, verb2, verb3;
 
         System.out.println("*** MAD LIBS GAME ***\n");
 
